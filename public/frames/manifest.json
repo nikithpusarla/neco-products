@@ -1,0 +1,19 @@
+{
+  "frameCount": 240,
+  "fps": 30,
+  "aspectRatio": 1.7777777777777777,
+  "desktop": {
+    "folder": "/frames/webp-desktop",
+    "filePattern": "frame_%04d.webp",
+    "fallbackFolder": "/frames/film",
+    "fallbackPattern": "frame_%04d.jpg",
+    "width": 1920
+  },
+  "mobile": {
+    "folder": "/frames/webp-mobile",
+    "filePattern": "frame_%04d.webp",
+    "fallbackFolder": "/frames/film",
+    "fallbackPattern": "frame_%04d.jpg",
+    "width": 1080
+  }
+}

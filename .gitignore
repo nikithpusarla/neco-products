@@ -1,0 +1,8 @@
+node_modules
+.next
+.env*.local
+.claude
+*.tsbuildinfo
+# duplicate source frames (copies live in public/frames/film)
+/ezgif-frame-*.jpg
+!.env.local.example
